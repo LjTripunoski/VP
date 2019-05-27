@@ -1,0 +1,10 @@
+c:\users\upe\source\repos\IspitMaster\IspitMaster\bin\Debug\IspitMaster.exe.config
+c:\users\upe\source\repos\IspitMaster\IspitMaster\bin\Debug\IspitMaster.exe
+c:\users\upe\source\repos\IspitMaster\IspitMaster\bin\Debug\IspitMaster.pdb
+c:\users\upe\source\repos\IspitMaster\IspitMaster\obj\Debug\IspitMaster.csprojAssemblyReference.cache
+c:\users\upe\source\repos\IspitMaster\IspitMaster\obj\Debug\IspitMaster.Form1.resources
+c:\users\upe\source\repos\IspitMaster\IspitMaster\obj\Debug\IspitMaster.Properties.Resources.resources
+c:\users\upe\source\repos\IspitMaster\IspitMaster\obj\Debug\IspitMaster.csproj.GenerateResource.cache
+c:\users\upe\source\repos\IspitMaster\IspitMaster\obj\Debug\IspitMaster.csproj.CoreCompileInputs.cache
+c:\users\upe\source\repos\IspitMaster\IspitMaster\obj\Debug\IspitMaster.exe
+c:\users\upe\source\repos\IspitMaster\IspitMaster\obj\Debug\IspitMaster.pdb
